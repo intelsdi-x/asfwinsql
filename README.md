@@ -7,7 +7,7 @@ Run powershell publish.ps1 script on ASF host.
 ```
 i.e.
 ```
-. C:\asf\asfvnext\publish.ps1
+. C:\asf\asfwinsql\publish.ps1
 ```
 or if you are in script directory:
 ```
